@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title> This is the title of the HTML (before) </title>
+</head>
+<body>
+<h1>HTML is Structure Only</h1>
+<p> Iam trying to create an HTML page</>
+<p> This is the second paragraph of my html code </p>
+<footer>
+<hr>
+<p> This is the footer of the html. </p>
+</footer>
+</body>
+</html>
